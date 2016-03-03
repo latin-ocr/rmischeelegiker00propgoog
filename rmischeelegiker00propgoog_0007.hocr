@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rmischeelegiker00propgoog_0007.png"; bbox 0 0 2850 4350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1334 2424 1771 2527">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1334 2424 1771 2527">
+     <span class='ocr_line' id='line_1_1' title="bbox 1647 2424 1771 2501"><span class='ocrx_word' id='word_1_1' title='bbox 1647 2424 1771 2501; x_wconf 66' lang='lat' dir='ltr'>f</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1499 2434 1642 2516"><span class='ocrx_word' id='word_1_2' title='bbox 1499 2434 1642 2516; x_wconf 57' lang='lat' dir='ltr'><em>ff</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1446 2435 1494 2515"><span class='ocrx_word' id='word_1_3' title='bbox 1446 2435 1494 2515; x_wconf 70' lang='grc' dir='ltr'><em>(υ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1334 2446 1425 2527"><span class='ocrx_word' id='word_1_4' title='bbox 1334 2446 1425 2527; x_wconf 50' lang='lat'><em>4</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1079 47 3897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1079 47 3897">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1079 47 3897"><span class='ocrx_word' id='word_1_5' title='bbox 0 1079 47 3897; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
